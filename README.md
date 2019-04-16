@@ -7,12 +7,6 @@ This lab aims to build video streaming app based on WebRTC framework.
 Some good examples:
 https://www.scaledrone.com/blog/webrtc-tutorial-simple-video-chat/
 
-
-# Place all laboratory on the github.io.
-  - ROOT folder should contain 5 folders (lab1, lab2, lab3, lab4 & lab5) and index.html.
-  - index.html should have links to each folder.
-  - Each folder should be prepared to load solution.
-
 # Requirements for repository
   - You have to clone this repository and make two branches (master and develop).
   - The develop branch should contain commits of every new feature of the AR application.
