@@ -1,5 +1,5 @@
 Tested on Chromium and Firefox browsers
-
+try it on https://theboxnwb.github.io/mediaLab5/src/
 # mediaLab5
 
 This lab aims to build video streaming app based on WebRTC framework.
