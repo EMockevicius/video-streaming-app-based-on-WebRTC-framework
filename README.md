@@ -1,17 +1,5 @@
 Tested on Chromium and Firefox browsers
-try it on https://theboxnwb.github.io/mediaLab5/src/
-# mediaLab5
-
-This lab aims to build video streaming app based on WebRTC framework.
-
-Some good examples:
-https://www.scaledrone.com/blog/webrtc-tutorial-simple-video-chat/
-
-# Requirements for repository
-  - You have to clone this repository and make two branches (master and develop).
-  - The develop branch should contain commits of every new feature of the AR application.
-  - When all features will be ready you have to merge the development branch to the master.
-
+try it on https://eimantasmockevicius.github.io/mediaLab5/src/
 # Requirements for streaming application
 There are two options to choose from. 
 
