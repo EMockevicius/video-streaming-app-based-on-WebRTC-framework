@@ -1,5 +1,5 @@
 Tested on Chromium and Firefox browsers
-try it on https://eimantasmockevicius.github.io/video-streaming-app-based-on-WebRTC-framework/src/
+try it on https://emockevicius.github.io/video-streaming-app-based-on-WebRTC-framework/src/
 
 exchange offer and participants SDP's to connect 
 
